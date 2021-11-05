@@ -1,4 +1,5 @@
 #!/bin/python
+"""Generates wordlist of tv show episode titles using omdb apikey and imdb id"""
 
 import sys
 import requests
